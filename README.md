@@ -1,5 +1,5 @@
 # FunWithTinder
-Fun with tinder website
+Fun with tinder website. This small piece of code will automate the swiping on Tinder Website. No need to do hard work to get match ;) . 
 
 ## How to Use
 1. Go to Tinder Website and login.
